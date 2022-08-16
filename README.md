@@ -1,4 +1,4 @@
-# scaling-train
+# JCIM submission (manuscript ci-2022-00780y)
 
 General repository for ACS JCIM submission of the manuscript (ci-2022-00780y)
 
